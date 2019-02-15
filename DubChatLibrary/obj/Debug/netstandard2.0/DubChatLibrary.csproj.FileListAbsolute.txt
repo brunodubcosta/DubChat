@@ -1,0 +1,8 @@
+C:\Users\bcosta\source\repos\DubChat\DubChatLibrary\bin\Debug\netstandard2.0\DubChatLibrary.deps.json
+C:\Users\bcosta\source\repos\DubChat\DubChatLibrary\bin\Debug\netstandard2.0\DubChatLibrary.dll
+C:\Users\bcosta\source\repos\DubChat\DubChatLibrary\bin\Debug\netstandard2.0\DubChatLibrary.pdb
+C:\Users\bcosta\source\repos\DubChat\DubChatLibrary\obj\Debug\netstandard2.0\DubChatLibrary.csproj.CoreCompileInputs.cache
+C:\Users\bcosta\source\repos\DubChat\DubChatLibrary\obj\Debug\netstandard2.0\DubChatLibrary.AssemblyInfoInputs.cache
+C:\Users\bcosta\source\repos\DubChat\DubChatLibrary\obj\Debug\netstandard2.0\DubChatLibrary.AssemblyInfo.cs
+C:\Users\bcosta\source\repos\DubChat\DubChatLibrary\obj\Debug\netstandard2.0\DubChatLibrary.dll
+C:\Users\bcosta\source\repos\DubChat\DubChatLibrary\obj\Debug\netstandard2.0\DubChatLibrary.pdb

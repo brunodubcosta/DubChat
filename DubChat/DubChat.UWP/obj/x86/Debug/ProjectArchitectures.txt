@@ -1,0 +1,1 @@
+C:\Users\bcosta\source\repos\DubChat\DubChat\DubChat.UWP\DubChat.UWP.csproj;x86

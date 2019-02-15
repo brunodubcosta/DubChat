@@ -1,0 +1,6 @@
+
+*.lock
+.vs/DubChat/v15/.suo
+*.ide
+.vs/DubChat/v15/Server/sqlite3/storage.ide-shm
+*.ide-wal

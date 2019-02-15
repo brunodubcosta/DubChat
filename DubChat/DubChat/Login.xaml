@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:DubChat"
+             x:Class="DubChat.Login">
+
+    <Grid HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+
+
+        <StackLayout  Margin="0,150,0,0" Grid.Row="0">
+            <Label Text="DubChat" HorizontalTextAlignment="Center" />
+            <Image Source="msg" VerticalOptions="Center" HorizontalOptions="Center"></Image>
+        </StackLayout>
+
+
+        <StackLayout HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand" Grid.Row="1">
+
+            <StackLayout >
+                <Entry x:Name="username" MaxLength="128" HorizontalOptions="CenterAndExpand" Placeholder="Username" WidthRequest="200"></Entry>
+                <Entry x:Name="password" MaxLength="128" HorizontalOptions="CenterAndExpand" Placeholder="Password" WidthRequest="200" IsPassword="True"></Entry>
+            </StackLayout>
+            <StackLayout  Margin="50,10,50,0" Orientation="Horizontal">
+                <Button HorizontalOptions="CenterAndExpand" Text="Login" x:Name="loginButton" Clicked="LoginButton_Clicked"></Button>
+                <Button HorizontalOptions="CenterAndExpand" Text="Register"></Button>
+            </StackLayout>
+        </StackLayout>
+
+    </Grid >
+</ContentPage>

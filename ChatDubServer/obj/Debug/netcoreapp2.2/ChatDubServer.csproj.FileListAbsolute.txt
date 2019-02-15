@@ -1,0 +1,17 @@
+C:\Users\bcosta\source\repos\DubChat\ChatDubServer\bin\Debug\netcoreapp2.2\ChatDubServer.deps.json
+C:\Users\bcosta\source\repos\DubChat\ChatDubServer\bin\Debug\netcoreapp2.2\ChatDubServer.runtimeconfig.json
+C:\Users\bcosta\source\repos\DubChat\ChatDubServer\bin\Debug\netcoreapp2.2\ChatDubServer.runtimeconfig.dev.json
+C:\Users\bcosta\source\repos\DubChat\ChatDubServer\bin\Debug\netcoreapp2.2\ChatDubServer.dll
+C:\Users\bcosta\source\repos\DubChat\ChatDubServer\bin\Debug\netcoreapp2.2\ChatDubServer.pdb
+C:\Users\bcosta\source\repos\DubChat\ChatDubServer\obj\Debug\netcoreapp2.2\ChatDubServer.csprojAssemblyReference.cache
+C:\Users\bcosta\source\repos\DubChat\ChatDubServer\obj\Debug\netcoreapp2.2\ChatDubServer.csproj.CoreCompileInputs.cache
+C:\Users\bcosta\source\repos\DubChat\ChatDubServer\obj\Debug\netcoreapp2.2\ChatDubServer.RazorAssemblyInfo.cache
+C:\Users\bcosta\source\repos\DubChat\ChatDubServer\obj\Debug\netcoreapp2.2\ChatDubServer.RazorAssemblyInfo.cs
+C:\Users\bcosta\source\repos\DubChat\ChatDubServer\obj\Debug\netcoreapp2.2\ChatDubServer.AssemblyInfoInputs.cache
+C:\Users\bcosta\source\repos\DubChat\ChatDubServer\obj\Debug\netcoreapp2.2\ChatDubServer.AssemblyInfo.cs
+C:\Users\bcosta\source\repos\DubChat\ChatDubServer\obj\Debug\netcoreapp2.2\ChatDubServer.RazorTargetAssemblyInfo.cache
+C:\Users\bcosta\source\repos\DubChat\ChatDubServer\obj\Debug\netcoreapp2.2\ChatDubServer.dll
+C:\Users\bcosta\source\repos\DubChat\ChatDubServer\obj\Debug\netcoreapp2.2\ChatDubServer.pdb
+C:\Users\bcosta\source\repos\DubChat\ChatDubServer\bin\Debug\netcoreapp2.2\DubChatLibrary.dll
+C:\Users\bcosta\source\repos\DubChat\ChatDubServer\bin\Debug\netcoreapp2.2\DubChatLibrary.pdb
+C:\Users\bcosta\source\repos\DubChat\ChatDubServer\obj\Debug\netcoreapp2.2\ChatDubServer.csproj.CopyComplete
